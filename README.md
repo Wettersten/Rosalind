@@ -17,8 +17,8 @@ Introduction to several bioinformatics tools, mostly done online.
 ### Bioinformatics Textbook Track: 18/124
 Bioinformatics problems based on the book Bioinformatics Algorithms. http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
 
-### Algorithmic Heights: 9/34
+### Algorithmic Heights: 10/34
 Algorithmic problems based on the book Algorithms. https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402
 
-### Total: 81/285
-Profile says 5 more completed, guessing that 5 previously completed problems are now removed.
+### Total: 82/285 (87)
+Profile says I have completed 5 more problems than accounted for here, 5 previously completed problems are now removed?
