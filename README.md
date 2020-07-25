@@ -1,5 +1,5 @@
 # Rosalind - http://rosalind.info/
-My solutions to the problems on Rosalind, done with python 3.7+. 
+My solutions to the problems on Rosalind, done with python 3.7+.
 http://rosalind.info/users/Sayani/
 
 
@@ -8,7 +8,7 @@ http://rosalind.info/users/Sayani/
 ### Python Village: 6/6 - All Done
 Introduction to python.
 
-### Bioinformatics Stronghold: 32/105
+### Bioinformatics Stronghold: 33/105
 Main rosalind bioinformatics problems.
 
 ### Bioinformatics Armory: 16/16 - All Done
@@ -20,5 +20,5 @@ Bioinformatics problems based on the book Bioinformatics Algorithms. http://algo
 ### Algorithmic Heights: 10/34
 Algorithmic problems based on the book Algorithms. https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402
 
-### Total: 82/285 (87)
+### Total: 83/285 (88)
 Profile says I have completed 5 more problems than accounted for here, 5 previously completed problems are now removed?
