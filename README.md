@@ -14,11 +14,11 @@ Main rosalind bioinformatics problems.
 ### Bioinformatics Armory: 16/16 - All Done
 Introduction to several bioinformatics tools, mostly done online.
 
-### Bioinformatics Textbook Track: 18/124
+### Bioinformatics Textbook Track: 20/124
 Bioinformatics problems based on the book Bioinformatics Algorithms. http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf
 
 ### Algorithmic Heights: 10/34
 Algorithmic problems based on the book Algorithms. https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402
 
-### Total: 83/285 (88)
+### Total: 85/285 (90)
 Profile says I have completed 5 more problems than accounted for here, 5 previously completed problems are now removed?
