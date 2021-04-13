@@ -8,7 +8,7 @@ http://rosalind.info/users/Sayani/
 ### Python Village: 6/6 - All Done
 Introduction to python.
 
-### Bioinformatics Stronghold: 33/105
+### Bioinformatics Stronghold: 34/105
 Main Rosalind bioinformatics problems.
 
 ### Bioinformatics Armory: 16/16 - All Done
@@ -20,5 +20,5 @@ Bioinformatics problems based on the book Bioinformatics Algorithms. http://algo
 ### Algorithmic Heights: 10/34
 Algorithmic problems based on the book Algorithms. https://www.amazon.com/Algorithms-Sanjoy-Dasgupta/dp/0073523402
 
-### Total: 88/285 (93)
+### Total: 89/285 (94)
 Profile says I have completed 5 more problems than accounted for here, 5 previously completed problems are now removed?
